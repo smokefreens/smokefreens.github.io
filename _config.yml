@@ -1,0 +1,33 @@
+permalink: /:slug
+
+defaults:
+  # Default language
+  -
+    scope:
+      path: ""
+    values:
+      lang: "rs"
+      layout: "post"
+      base-url: "/"
+
+  -
+    scope:
+      path: "robots.txt"
+    values:
+      layout: "none"
+
+  # Language for everything inside `/en`
+  -
+    scope:
+      path: "en"
+    values:
+      lang: "en"
+      layout: "default"
+
+  # Language for everything inside `/ru`
+  -
+    scope:
+      path: "ru"
+    values:
+      lang: "ru"
+      layout: "default"
