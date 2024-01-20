@@ -11,8 +11,8 @@
   // Create markers from JSON data
   markerData.forEach(function (markerInfo) {
     var marker = L.marker([markerInfo.lat,markerInfo.lon]).addTo(map);
-    marker.bindPopup('<b><a href="'+markerInfo.gmap+'" target="_blank">' + markerInfo.title + '</a></b><br>' +
-      markerInfo.address + ( markerInfo.comment_{{ page.lang }} ? '<br>' : '') +
+    marker.bindPopup('<b><a href="'+markerInfo.gmap+'" target="_blank" style="font-size: 120%">' + markerInfo.title + '</a></b><br>' +
+      '📍 '+ markerInfo.address + ( markerInfo.comment_{{ page.lang }} ? '<br>' : '') +
       markerInfo.comment_{{ page.lang }} + 
       (markerInfo.url ? '<br><a href="' + markerInfo.url + '" target="_blank">' + markerInfo.url + '</a>' : '') );
   });
