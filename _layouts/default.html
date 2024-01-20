@@ -3,7 +3,40 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>🚭 {{ page.title }}</title>
+  <title>{{ page.title }}</title>
+<link
+    rel="icon"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚭</text></svg>"
+  />
+
+{% if page.og_description %}
+<meta name="description" content="{{ page.og_description }}" />
+{% endif %}
+<link rel="image_src" href="https://smokefreens.github.io/ogimage.jpg" />
+
+{% if page.og_title %}
+<meta property="og:title" content="{{ page.og_title }}">
+{% else %}
+<meta property="og:title" content="{{ page.title }}">
+{% endif %}
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://smokefreens.github.io/ogimage.jpg">
+{% if page.og_description %}
+<meta property="og:description" content="{{ page.og_description }}">
+{% endif %}
+
+<meta name="twitter:card" content="summary">
+{% if page.og_title %}
+<meta name="twitter:title" content="{{ page.og_title }}">
+{% else %}
+<meta property="og:title" content="{{ page.title }}">
+{% endif %}
+{% if page.og_description %}
+<meta name="twitter:description" content="{{ page.og_description }}">
+{% endif %}
+<meta name="twitter:image" content="https://smokefreens.github.io/ogimage.jpg">
+  
+  
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
@@ -18,14 +51,6 @@
 	  max-width: 680px;
 	  padding: 0 15px;
 	}
-
-	.footer {
-	  background-color: #f5f5f5;
-	}
-	/* Custom page CSS
-	-------------------------------------------------- */
-	/* Not required for template or sticky footer method. */
-
     #map {
       height: calc(100% - 56px); /* Subtract the height of the navbar */
     }
