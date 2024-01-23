@@ -1,5 +1,16 @@
 [
 {
+  "title" : "Sreća Dumplings",
+  "address" : "Кисачка 33",
+  "comment_rs" : "",
+  "comment_en" : "",
+  "comment_ru" : "",
+  "url" : "https://sreća-dumplings.yolasite.com",
+  "lat" : 45.2629984,
+  "lon" : 19.8390453,
+  "gmap" : "https://maps.app.goo.gl/7fNJKX5foSnRHT237"
+},
+{
   "title" : "Gyros King",
   "address" : "Булевар патријарха Павла 5а",
   "comment_rs" : "",
