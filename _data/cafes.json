@@ -319,17 +319,6 @@
   "gmap" : "https://maps.app.goo.gl/CSBT6cAJaTaQwry79"
 },
 {
-  "title" : "Zenit books",
-  "address" : "Његошева 24",
-  "comment_rs" : "Donji sprat",
-  "comment_en" : "Lower floor",
-  "comment_ru" : "Нижний этаж",
-  "url" : "http://zenitbooks.com",
-  "lat" : 45.2570533,
-  "lon" : 19.8429177,
-  "gmap" : "https://maps.app.goo.gl/7x4TJend9e7Kpqr36"
-},
-{
   "title" : "Pizzeria Adrijana",
   "address" : "Змај Јовина 1",
   "comment_rs" : "Prednji deo lokala je nepušački",
