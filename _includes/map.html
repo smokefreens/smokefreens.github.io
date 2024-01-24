@@ -1,5 +1,13 @@
 <div id="map"></div>
+<style>
+</style>
+
 <script>
+	var checked = {
+		  en: "Checked",
+		  ru: "Проверено",
+		  rs: "Provereno"
+	};
   var map = L.map('map').setView([45.2471, 19.8335], 14); // Novi Sad, Serbia
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -9,11 +17,17 @@
   // JSON data for markers with coordinates
   var markerData = {{ site.data.cafes | jsonify }};
   // Create markers from JSON data
-  markerData.forEach(function (markerInfo) {
-    var marker = L.marker([markerInfo.lat,markerInfo.lon]).addTo(map);
+  markerData.filter(m => m.deleted==='').forEach(function (markerInfo) {
+	var marker = L.marker([markerInfo.lat,markerInfo.lon]).addTo(map);
+	if (markerInfo.checked) {
+      marker._icon.classList.add("leaflet-checked-point");
+	}
     marker.bindPopup('<b><a href="'+markerInfo.gmap+'" target="_blank" style="font-size: 120%">' + markerInfo.title + '</a></b><br>' +
       '📍 '+ markerInfo.address + ( markerInfo.comment_{{ page.lang }} ? '<br>' : '') +
       markerInfo.comment_{{ page.lang }} + 
-      (markerInfo.url ? '<br><a href="' + markerInfo.url + '" target="_blank">' + markerInfo.url + '</a>' : '') );
+      (markerInfo.url ? '<br><a href="' + markerInfo.url + '" target="_blank">' + markerInfo.url + '</a>' : '')
+	  + (markerInfo.checked ? '<br><span class="badge rounded-pill mt-2 text-bg-success opacity-50">'+checked.{{ page.lang }}
+	  +' '+ markerInfo.checked+'</span>' : '')
+	  );
   });
 </script>

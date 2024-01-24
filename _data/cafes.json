@@ -1,5 +1,57 @@
 [
 {
+  "title" : "Exclusive Green",
+  "address" : "Милана Јешића Ибре 26b",
+  "comment_rs" : "",
+  "comment_en" : "",
+  "comment_ru" : "",
+  "url" : "",
+  "lat" : 45.2581328,
+  "lon" : 19.806053,
+  "checked" : "2024-01-24",
+  "deleted" : "",
+  "gmap" : "https://maps.app.goo.gl/mNQovfTxkd4LFrip8"
+},
+{
+  "title" : "Zenit books",
+  "address" : "Његошева 24",
+  "comment_rs" : "Donji sprat",
+  "comment_en" : "Lower floor",
+  "comment_ru" : "Нижний этаж",
+  "url" : "http://zenitbooks.com",
+  "lat" : 45.2570533,
+  "lon" : 19.8429177,
+  "checked" : "",
+  "deleted" : "2024-01-23 Snežana: Zenit books  je puškački, nažalost. Zenit je bio nepušački. Ali, nisu imali goste, pa su postali pušači. I užasno srdi unutra.",
+  "gmap" : "https://maps.app.goo.gl/7x4TJend9e7Kpqr36"
+},
+{
+  "title" : "Ravena pekara",
+  "address" : "Јанка Веселиновића",
+  "comment_rs" : "",
+  "comment_en" : "",
+  "comment_ru" : "",
+  "url" : "",
+  "lat" : 45.2620803,
+  "lon" : 19.8170745,
+  "checked" : "2024-01-24",
+  "deleted" : "",
+  "gmap" : "https://maps.app.goo.gl/HMJxuY564dbwQPak8"
+},
+{
+  "title" : "Gyros King",
+  "address" : "Руменачка 45",
+  "comment_rs" : "",
+  "comment_en" : "",
+  "comment_ru" : "",
+  "url" : "https://www.instagram.com/gyros_king_ns/",
+  "lat" : 45.2632035,
+  "lon" : 19.8177085,
+  "checked" : "2024-01-24",
+  "deleted" : "",
+  "gmap" : "https://maps.app.goo.gl/TSnenmSMwYpX595x6"
+},
+{
   "title" : "Sreća Dumplings",
   "address" : "Кисачка 33",
   "comment_rs" : "",
@@ -8,6 +60,8 @@
   "url" : "https://sreća-dumplings.yolasite.com",
   "lat" : 45.2629984,
   "lon" : 19.8390453,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/7fNJKX5foSnRHT237"
 },
 {
@@ -19,6 +73,8 @@
   "url" : "https://www.instagram.com/gyros_king_ns/",
   "lat" : 45.2396515,
   "lon" : 19.8205573,
+  "checked" : "2024-01-17",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/2prBWvWhUvbTuUsi8"
 },
 {
@@ -30,6 +86,8 @@
   "url" : "https://www.facebook.com/biciklana.ns/",
   "lat" : 45.2399804,
   "lon" : 19.8474436,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/CavpoFehTA2EfmVj8"
 },
 {
@@ -41,6 +99,8 @@
   "url" : "https://www.lebol.rs/en/",
   "lat" : 45.2558185,
   "lon" : 19.8491643,
+  "checked" : "2024-01-17",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/ZGeY7DGU7X9dcEmy7"
 },
 {
@@ -52,6 +112,8 @@
   "url" : "https://sweetandgreens.com",
   "lat" : 45.2559413,
   "lon" : 19.8467555,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/QhqnETQ2Re74bQqB6"
 },
 {
@@ -63,6 +125,8 @@
   "url" : "https://www.instagram.com/vegeveganorganicfood/",
   "lat" : 45.25366,
   "lon" : 19.8373253,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/79ahVUj1Zizx3JdeA"
 },
 {
@@ -74,6 +138,8 @@
   "url" : "https://tokiosushi.rs",
   "lat" : 45.2574002,
   "lon" : 19.8475502,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/fGu6xEiUggMVBKFb9"
 },
 {
@@ -85,6 +151,8 @@
   "url" : "https://www.facebook.com/BulevarBooks/",
   "lat" : 45.2531798,
   "lon" : 19.8453733,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/fR12cVywFvKwRyci7"
 },
 {
@@ -96,6 +164,8 @@
   "url" : "",
   "lat" : 45.243168,
   "lon" : 19.8408753,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/FEH7zfJ1PxTyc2Yg7"
 },
 {
@@ -107,6 +177,8 @@
   "url" : "",
   "lat" : 45.276412,
   "lon" : 19.826218,
+  "checked" : "2024-01-20",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/uFGTFP956eHj7cuP7"
 },
 {
@@ -118,6 +190,8 @@
   "url" : "https://www.facebook.com/crna.ovca.novisad/	",
   "lat" : 45.2541283,
   "lon" : 19.8439026,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/tuED5eXmzTHyQV3y6"
 },
 {
@@ -129,6 +203,8 @@
   "url" : "https://www.facebook.com/crniovan.ns/",
   "lat" : 45.2560476,
   "lon" : 19.8482954,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/GgjcxXXfLyT7ciK1A"
 },
 {
@@ -140,6 +216,8 @@
   "url" : "https://www.instagram.com/_izlet",
   "lat" : 45.2560558,
   "lon" : 19.8516777,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/mVSj98bDzU9M5PJ3A"
 },
 {
@@ -151,6 +229,8 @@
   "url" : "https://www.drustveneigre.rs",
   "lat" : 45.2504117,
   "lon" : 19.8369615,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/8juQqpdi93xENxGg6"
 },
 {
@@ -162,6 +242,8 @@
   "url" : "https://www.instagram.com/coffeeculture32/",
   "lat" : 45.2603789,
   "lon" : 19.830255,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/CZRdEotNtcd8Gu4LA"
 },
 {
@@ -173,6 +255,8 @@
   "url" : "https://snippster.virtualtour.rs",
   "lat" : 45.256868,
   "lon" : 19.8195656,
+  "checked" : "2024-01-24",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/EJvmUScRtTGMX21t7"
 },
 {
@@ -184,6 +268,8 @@
   "url" : "https://www.instagram.com/tihotoplo",
   "lat" : 45.2569447,
   "lon" :19.8370437, 
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/cqqhYS3kgeBjeRTr5"
 },
 {
@@ -195,6 +281,8 @@
   "url" : "https://ananda.rs",
   "lat" : 45.2493376,
   "lon" : 19.8395277,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/LWy8nb436JvX4wAP6"
 },
 {
@@ -206,6 +294,8 @@
   "url" : "https://www.facebook.com/gabbycaffe/",
   "lat" : 45.2566629,
   "lon" : 19.8484749,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/3tgmvUL51PTva8Dq7"
 },
 {
@@ -217,6 +307,8 @@
   "url" : "https://organicfactory.business.site",
   "lat" : 45.2399028,
   "lon" : 19.8373791,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/w5URkWX6eS61d2g38"
 },
 {
@@ -228,6 +320,8 @@
   "url" : "https://www.freshfoodcaffe.rs",
   "lat" : 45.2546769,
   "lon" : 19.8312481,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/kHMxN4Q59dy5FcGV8"
 },
 {
@@ -239,6 +333,8 @@
   "url" : "",
   "lat" : 45.2488206,
   "lon" : 19.8486284,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/zDqQ341Xw4vN86136"
 },
 {
@@ -250,6 +346,8 @@
   "url" : "",
   "lat" : 45.2488201,
   "lon" : 19.8383287,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/FKimUvodA8nNTDsMA"
 },
 {
@@ -261,6 +359,8 @@
   "url" : "https://www.freeshkakafa.com",
   "lat" : 45.253099,
   "lon" : 19.8308395,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/h4o6uuLRZQJyxe8m7"
 },
 {
@@ -272,6 +372,8 @@
   "url" : "https://plantpower.rs/jelovnik/",
   "lat" : 45.2476305,
   "lon" : 19.8374348,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/qUN5h9UqfmTmeoAx9"
 },
 {
@@ -283,6 +385,8 @@
   "url" : "https://www.macchiato.rs/en/",
   "lat" : 45.2491578,
   "lon" : 19.8519947,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/49iWZM1TPaf3WTcL9"
 },
 {
@@ -294,6 +398,8 @@
   "url" : "https://www.macchiato12apostola.rs",
   "lat" : 45.2582834,
   "lon" : 19.805955,
+  "checked" : "",
+  "deleted" : "2024-01-24: there is only one space (room) for smoking and non smoking people, so the air in non smoking part is same smoked as in smoking part",
   "gmap" : "https://maps.app.goo.gl/WSLBNWcgkbZP3Ku38"
 },
 {
@@ -305,6 +411,8 @@
   "url" : "",
   "lat" : 45.2476305,
   "lon" : 19.8374348,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/FikMFMtVd6QDPPYVA"
 },
 {
@@ -316,6 +424,8 @@
   "url" : "https://www.instagram.com/brunobar.rs",
   "lat" : 45.2422504,
   "lon" : 19.8252851,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/RGFy6UGfibioUs1e9"
 },
 {
@@ -327,6 +437,8 @@
   "url" : "https://www.carolijapeciva.rs",
   "lat" : 45.2419648,
   "lon" : 19.8440617,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/CSBT6cAJaTaQwry79"
 },
 {
@@ -338,6 +450,8 @@
   "url" : "",
   "lat" : 45.2541009,
   "lon" : 19.8393898,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/ooebbbuP7mqqQASe7"
 },
 {
@@ -349,6 +463,8 @@
   "url" : "http://gondola-restoran.rs",
   "lat" : 45.2537384,
   "lon" : 19.8505535,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/LyxJerdxbTB9obZX7"
 },
 {
@@ -360,6 +476,8 @@
   "url" : "https://scenariocaffe.com",
   "lat" : 45.2517751,
   "lon" : 19.8247352,
+  "checked" : "2024-01-24",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/WtZtaVZrUv2TwUQu8"
 },
 {
@@ -369,8 +487,10 @@
   "comment_en" : "It is non-smoking inside, the garden is smoking",
   "comment_ru" : "Внутри не курят, курят в саду.",
   "url" : "",
-  "lat" : 45.2583161,
-  "lon" : 19.8150764,
+  "lat" : 45.2489238,
+  "lon" : 19.83855,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/zPBhEeA89DZBVdMt5"
 },
 {
@@ -380,8 +500,10 @@
   "comment_en" : "has a separate no-smoking zone",
   "comment_ru" : "есть отдельная зона для некурящих",
   "url" : "https://www.rosetto.rs",
-  "lat" : 45.2583161,
-  "lon" : 19.8150764,
+  "lat" : 45.240711,
+  "lon" : 19.8129023,
+  "checked" : "",
+  "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/znWADyHDNmohFQ7e8"
 }
 ]
