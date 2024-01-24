@@ -1,5 +1,44 @@
 [
 {
+  "title" : "Drago mi je",
+  "address" : "Јеврејска 12",
+  "comment_rs" : "",
+  "comment_en" : "",
+  "comment_ru" : "",
+  "url" : "",
+  "lat" : 45.253471,
+  "lon" : 19.840496,
+  "checked" : "2024-01-24",
+  "deleted" : "",
+  "gmap" : "https://maps.app.goo.gl/ZPr7jgLvNi62z9QY8"
+},
+{
+  "title" : "Maro's Pastelaria",
+  "address" : "Валентина Водника 1",
+  "comment_rs" : "",
+  "comment_en" : "",
+  "comment_ru" : "",
+  "url" : "",
+  "lat" : 45.255438, 
+  "lon" : 19.836451,
+  "checked" : "2024-01-24",
+  "deleted" : "",
+  "gmap" : "https://maps.app.goo.gl/gzHmHdeNBZvLKhiR6"
+},
+{
+  "title" : "Kao Nekad",
+  "address" : "Данила Киша 2-4",
+  "comment_rs" : "",
+  "comment_en" : "",
+  "comment_ru" : "",
+  "url" : "",
+  "lat" : 45.249713, 
+  "lon" : 19.837588,
+  "checked" : "2024-01-24",
+  "deleted" : "",
+  "gmap" : "https://maps.app.goo.gl/M1tpCSD5sFiuEeFVA"
+},
+{
   "title" : "Exclusive Green",
   "address" : "Милана Јешића Ибре 26b",
   "comment_rs" : "",
@@ -112,7 +151,7 @@
   "url" : "https://sweetandgreens.com",
   "lat" : 45.2559413,
   "lon" : 19.8467555,
-  "checked" : "",
+  "checked" : "2024-01-24",
   "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/QhqnETQ2Re74bQqB6"
 },
@@ -123,9 +162,9 @@
   "comment_en" : "passage opposite the synagogue",
   "comment_ru" : "проход напротив синагоги",
   "url" : "https://www.instagram.com/vegeveganorganicfood/",
-  "lat" : 45.25366,
-  "lon" : 19.8373253,
-  "checked" : "",
+  "lat" : 45.253893, 
+  "lon" : 19.839763,
+  "checked" : "2024-01-24",
   "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/79ahVUj1Zizx3JdeA"
 },
@@ -191,7 +230,7 @@
   "lat" : 45.2541283,
   "lon" : 19.8439026,
   "checked" : "",
-  "deleted" : "",
+  "deleted" : "2024-01-24: no place at the point",
   "gmap" : "https://maps.app.goo.gl/tuED5eXmzTHyQV3y6"
 },
 {
@@ -268,7 +307,7 @@
   "url" : "https://www.instagram.com/tihotoplo",
   "lat" : 45.2569447,
   "lon" :19.8370437, 
-  "checked" : "",
+  "checked" : "2024-01-24",
   "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/cqqhYS3kgeBjeRTr5"
 },
@@ -344,9 +383,9 @@
   "comment_en" : "there are only two tables with two seats each and a couple of sunk chairs",
   "comment_ru" : "здесь всего два стола по два места каждый и пара утопленных стульев",
   "url" : "",
-  "lat" : 45.2488201,
-  "lon" : 19.8383287,
-  "checked" : "",
+  "lat" : 45.248969,
+  "lon" : 19.839243,
+  "checked" : "2024-0124",
   "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/FKimUvodA8nNTDsMA"
 },
@@ -448,8 +487,8 @@
   "comment_en" : "The front part of the bar is non-smoking",
   "comment_ru" : "Передняя часть бара предназначена для некурящих.",
   "url" : "",
-  "lat" : 45.2541009,
-  "lon" : 19.8393898,
+  "lat" : 45.255823, 
+  "lon" : 19.846415,
   "checked" : "",
   "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/ooebbbuP7mqqQASe7"
@@ -487,9 +526,9 @@
   "comment_en" : "It is non-smoking inside, the garden is smoking",
   "comment_ru" : "Внутри не курят, курят в саду.",
   "url" : "",
-  "lat" : 45.2489238,
-  "lon" : 19.83855,
-  "checked" : "",
+  "lat" : 45.257387, 
+  "lon" : 19.834148,
+  "checked" : "2024-01-24",
   "deleted" : "",
   "gmap" : "https://maps.app.goo.gl/zPBhEeA89DZBVdMt5"
 },
