@@ -1,5 +1,18 @@
 [
 {
+  "title" : "FREESHKA COFFEE Co.",
+  "address" : "Bulevar oslobođenja 94",
+  "comment_rs" : "",
+  "comment_en" : "",
+  "comment_ru" : "",
+  "url" : "",
+  "lat" : 45.2469675,
+  "lon" : 19.8392853,
+  "checked" : "2024-03-13",
+  "deleted" : "",
+  "gmap" : "https://maps.app.goo.gl/Qj7FhxVPMBKdLHUv5"
+},
+{
   "title" : "Drago mi je",
   "address" : "Јеврејска 12",
   "comment_rs" : "",
@@ -542,7 +555,7 @@
   "lat" : 45.240711,
   "lon" : 19.8129023,
   "checked" : "",
-  "deleted" : "",
+  "deleted" : "2024-03-17: there is only one space (room) for smoking and non smoking people, so the air in non smoking part is same smoked as in smoking part",
   "gmap" : "https://maps.app.goo.gl/znWADyHDNmohFQ7e8"
 }
 ]
